@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm @emotion/react`
+### `npm @emotion/styled`
+### `npm @heroicons/react`
+### `npm @mui/material`
+### `npm @mui/icons-material`
+### `npm i react-alice-carousel`
 ### `npm start`
 
 Runs the app in the development mode.\

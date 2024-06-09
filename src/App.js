@@ -1,9 +1,18 @@
 import './App.css';
-import MultiLevelForm from './components/MultilevelForm';
+import Navigation from './customer/Navigation/Navigation';
+import ProductOverView from './customer/ProductOverview/Overview';
+import HomePages from './customer/Pages/Home/HomePages';
+
 function App() {
   return (
-    <div className="App">
-       <MultiLevelForm/>
+    <div className="">
+      <Navigation/>
+
+      <div >
+        <HomePages/>
+      </div>
+      {/* <ProductOverView/> */}
+
     </div>
   );
 }
